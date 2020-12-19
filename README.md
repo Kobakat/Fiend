@@ -8,4 +8,4 @@ Sail down the River Styx
 
 Vanquish the evil of Tartarus
 
-For more information, click [here](https://github.com/Kobakat/Fiend/wiki) to visit the wiki.
+For more information on the design process, click [here](https://github.com/Kobakat/Fiend/wiki) to visit the wiki.
